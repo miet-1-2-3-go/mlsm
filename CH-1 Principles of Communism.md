@@ -10,13 +10,14 @@ A rigid class system defined social structure in 1840s Europe, with very limited
 
 * **The upper class:** A small elite, consisting of royalty, hereditary nobles, and wealthy landowners, maintained immense economic and political power. They inherited their wealth through property and land, and did not engage in manual labor. The right to vote and hold office was often tied to land ownership, further consolidating their control.
 
-* **The middle class:** This group grew significantly as a result of industrialization and expanding commerce. The middle class was further stratified into
+* **The middle class:** This group grew significantly as a result of industrialization and expanding commerce. The middle class was further stratified into:
 
-* **Higher middle class:** Factory owners, bankers, and merchants who became exceptionally wealthy but did not have the hereditary titles of the aristocracy.
+     * **Higher middle class:** Factory owners, bankers, and merchants who became exceptionally wealthy but did not have the hereditary titles of the aristocracy.
 Lower middle class: White-collar workers like factory managers, shopkeepers, doctors, and lawyers who enjoyed a more financially stable lifestyle than the working class.
 
-* **The working class:** Comprising the majority of the population in industrialized areas, the working class consisted of manual laborers in factories, mines, and mills. They lived in overcrowded and unsanitary urban slums, with little political or economic power.
-The underclass: At the very bottom of society, this group included the unemployed, homeless, petty criminals, and prostitutes. Without any social safety nets, life for the underclass was exceptionally precarious. 
+    * **The working class:** Comprising the majority of the population in industrialized areas, the working class consisted of manual laborers in factories, mines, and mills. They lived in overcrowded and unsanitary urban slums, with little political or economic power.
+
+* **The underclass:** At the very bottom of society, this group included the unemployed, homeless, petty criminals, and prostitutes. Without any social safety nets, life for the underclass was exceptionally precarious. 
 
 ### Life for the working and underclasses
 
